@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning React so I can build multi-platform apps <br>
-💬 Ask me about Python
+💬 Ask me about Python <br>
 📫 How to reach me: waqaspathan00@gmail.com
 
 ![Waqas's github stats](https://github-readme-stats.vercel.app/api?username=waqaspathan00&theme=dark&include_all_commits=true&show_icons=true)
