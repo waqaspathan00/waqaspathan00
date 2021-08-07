@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning React so I can build multi-platform apps <br>
+🌱 I’m currently learning React/ React Native so I can build multi-platform apps <br>
 💬 Ask me about Python <br>
 📫 How to reach me: waqaspathan00@gmail.com
 
