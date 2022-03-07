@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 📫 How to reach me: waqaspathan00@gmail.com
 
 ![Waqas's github stats](https://github-readme-stats.vercel.app/api?username=waqaspathan00&theme=dark&include_all_commits=true&show_icons=true)
+
+### My Toolbelt
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
