@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Waqas's github stats](https://github-readme-stats.vercel.app/api?username=waqaspathan00&theme=dark&include_all_commits=true&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas-elvirov&theme=dark&layout=compact&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqaspathan00&theme=dark&layout=compact&count_private=true"/>
 
 ### My Toolbelt
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
