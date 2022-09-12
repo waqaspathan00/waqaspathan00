@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently teaching students how to code <br>
-💬 Ask me for advice on how to become a better programmer <br>
+💬 Ask me for career advice <br>
 📫 How to reach me: waqaspathan00@gmail.com
 
 ![Waqas's github stats](https://github-readme-stats.vercel.app/api?username=waqaspathan00&theme=dark&include_all_commits=true&show_icons=true)
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### My Toolbelt
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Javascript-E4D00F?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Typescript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
